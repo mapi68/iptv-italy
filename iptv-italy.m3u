@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/italypremium2.xml"
+#EXTM3U
+x-tvg-url="https://www.bevy.be/bevyfiles/italypremium2.xml"
+x-tvg-url="https://www.bevy.be/bevyfiles/italypremium.xml"
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
